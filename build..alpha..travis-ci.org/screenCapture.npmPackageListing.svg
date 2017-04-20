@@ -1,0 +1,108 @@
+<svg height="1678" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="1678" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-20 03:44:41 +0000   179357 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-20 03:44:41 +0000     4064 bytes  README.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-20 03:44:41 +0000     1575 bytes  angular-config/index.js</tspan>
+<tspan x="10" y="74">  3.  2017-04-20 03:44:41 +0000      259 bytes  angular-config/templates/_.client.config.js</tspan>
+<tspan x="10" y="90">  4.  2017-04-20 03:44:41 +0000     1924 bytes  angular-controller/index.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-20 03:44:41 +0000      457 bytes  angular-controller/templates/_.client.controller\</tspan>
+<tspan x="10" y="122">.js</tspan>
+<tspan x="10" y="138">  6.  2017-04-20 03:44:41 +0000     2123 bytes  angular-controller/templates/_.client.controller\</tspan>
+<tspan x="10" y="154">.tests.js</tspan>
+<tspan x="10" y="170">  7.  2017-04-20 03:44:41 +0000     1682 bytes  angular-directive/index.js</tspan>
+<tspan x="10" y="186">  8.  2017-04-20 03:44:41 +0000      560 bytes  angular-directive/templates/_.client.directive.j\</tspan>
+<tspan x="10" y="202">s</tspan>
+<tspan x="10" y="218">  9.  2017-04-20 03:44:41 +0000     1658 bytes  angular-filter/index.js</tspan>
+<tspan x="10" y="234"> 10.  2017-04-20 03:44:41 +0000      441 bytes  angular-filter/templates/_.client.filter.js</tspan>
+<tspan x="10" y="250"> 11.  2017-04-20 03:44:41 +0000     4204 bytes  angular-route/index.js</tspan>
+<tspan x="10" y="266"> 12.  2017-04-20 03:44:41 +0000      457 bytes  angular-route/templates/_.client.controller.js</tspan>
+<tspan x="10" y="282"> 13.  2017-04-20 03:44:41 +0000     2118 bytes  angular-route/templates/_.client.controller.test\</tspan>
+<tspan x="10" y="298">s.js</tspan>
+<tspan x="10" y="314"> 14.  2017-04-20 03:44:41 +0000      312 bytes  angular-route/templates/_.client.route.js</tspan>
+<tspan x="10" y="330"> 15.  2017-04-20 03:44:41 +0000      593 bytes  angular-route/templates/_.client.routes.js</tspan>
+<tspan x="10" y="346"> 16.  2017-04-20 03:44:41 +0000       61 bytes  angular-route/templates/_.client.view.html</tspan>
+<tspan x="10" y="362"> 17.  2017-04-20 03:44:41 +0000     1666 bytes  angular-service/index.js</tspan>
+<tspan x="10" y="378"> 18.  2017-04-20 03:44:41 +0000      496 bytes  angular-service/templates/_.client.service.js</tspan>
+<tspan x="10" y="394"> 19.  2017-04-20 03:44:41 +0000     2537 bytes  angular-tests/index.js</tspan>
+<tspan x="10" y="410"> 20.  2017-04-20 03:44:41 +0000      223 bytes  angular-tests/templates/_.client.controller.js</tspan>
+<tspan x="10" y="426"> 21.  2017-04-20 03:44:41 +0000     2116 bytes  angular-tests/templates/_.client.controller.test\</tspan>
+<tspan x="10" y="442">s.js</tspan>
+<tspan x="10" y="458"> 22.  2017-04-20 03:44:41 +0000     4079 bytes  angular-view/index.js</tspan>
+<tspan x="10" y="474"> 23.  2017-04-20 03:44:41 +0000      308 bytes  angular-view/templates/_.client.route.js</tspan>
+<tspan x="10" y="490"> 24.  2017-04-20 03:44:41 +0000      589 bytes  angular-view/templates/_.client.routes.js</tspan>
+<tspan x="10" y="506"> 25.  2017-04-20 03:44:41 +0000       56 bytes  angular-view/templates/_.client.view.html</tspan>
+<tspan x="10" y="522"> 26.  2017-04-20 03:44:41 +0000     7190 bytes  app/index.js</tspan>
+<tspan x="10" y="538"> 27.  2017-04-20 03:44:41 +0000      674 bytes  app/log.js</tspan>
+<tspan x="10" y="554"> 28.  2017-04-20 03:44:41 +0000     7588 bytes  crud-module/index.js</tspan>
+<tspan x="10" y="570"> 29.  2017-04-20 03:44:41 +0000      117 bytes  crud-module/templates/client/_.client.module.js</tspan>
+<tspan x="10" y="586"> 30.  2017-04-20 03:44:41 +0000      855 bytes  crud-module/templates/client/config/_.client.con\</tspan>
+<tspan x="10" y="602">fig.js</tspan>
+<tspan x="10" y="618"> 31.  2017-04-20 03:44:41 +0000     3013 bytes  crud-module/templates/client/config/_.client.rou\</tspan>
+<tspan x="10" y="634">tes.js</tspan>
+<tspan x="10" y="650"> 32.  2017-04-20 03:44:41 +0000     1721 bytes  crud-module/templates/client/controllers/_.clien\</tspan>
+<tspan x="10" y="666">t.controller.js</tspan>
+<tspan x="10" y="682"> 33.  2017-04-20 03:44:41 +0000      486 bytes  crud-module/templates/client/controllers/_.list.\</tspan>
+<tspan x="10" y="698">client.controller.js</tspan>
+<tspan x="10" y="714"> 34.  2017-04-20 03:44:41 +0000      602 bytes  crud-module/templates/client/services/_.client.s\</tspan>
+<tspan x="10" y="730">ervice.js</tspan>
+<tspan x="10" y="746"> 35.  2017-04-20 03:44:41 +0000     1224 bytes  crud-module/templates/client/views/_.form.client\</tspan>
+<tspan x="10" y="762">.view.html</tspan>
+<tspan x="10" y="778"> 36.  2017-04-20 03:44:41 +0000     1102 bytes  crud-module/templates/client/views/_.list.client\</tspan>
+<tspan x="10" y="794">.view.html</tspan>
+<tspan x="10" y="810"> 37.  2017-04-20 03:44:41 +0000     1006 bytes  crud-module/templates/client/views/_.view.client\</tspan>
+<tspan x="10" y="826">.view.html</tspan>
+<tspan x="10" y="842"> 38.  2017-04-20 03:44:41 +0000      230 bytes  crud-module/templates/server/config/_.server.con\</tspan>
+<tspan x="10" y="858">fig.js</tspan>
+<tspan x="10" y="874"> 39.  2017-04-20 03:44:41 +0000     3462 bytes  crud-module/templates/server/controllers/_.serve\</tspan>
+<tspan x="10" y="890">r.controller.js</tspan>
+<tspan x="10" y="906"> 40.  2017-04-20 03:44:41 +0000      546 bytes  crud-module/templates/server/models/_.server.mod\</tspan>
+<tspan x="10" y="922">el.js</tspan>
+<tspan x="10" y="938"> 41.  2017-04-20 03:44:41 +0000     1968 bytes  crud-module/templates/server/policies/_.server.p\</tspan>
+<tspan x="10" y="954">olicy.js</tspan>
+<tspan x="10" y="970"> 42.  2017-04-20 03:44:41 +0000      950 bytes  crud-module/templates/server/routes/_.server.rou\</tspan>
+<tspan x="10" y="986">tes.js</tspan>
+<tspan x="10" y="1002"> 43.  2017-04-20 03:44:41 +0000     6383 bytes  crud-module/templates/tests/client/_.client.cont\</tspan>
+<tspan x="10" y="1018">roller.tests.js</tspan>
+<tspan x="10" y="1034"> 44.  2017-04-20 03:44:41 +0000     7817 bytes  crud-module/templates/tests/client/_.client.rout\</tspan>
+<tspan x="10" y="1050">es.tests.js</tspan>
+<tspan x="10" y="1066"> 45.  2017-04-20 03:44:41 +0000     3425 bytes  crud-module/templates/tests/client/_.list.client\</tspan>
+<tspan x="10" y="1082">.controller.tests.js</tspan>
+<tspan x="10" y="1098"> 46.  2017-04-20 03:44:41 +0000      412 bytes  crud-module/templates/tests/e2e/_.e2e.tests.js</tspan>
+<tspan x="10" y="1114"> 47.  2017-04-20 03:44:41 +0000     1518 bytes  crud-module/templates/tests/server/_.server.mode\</tspan>
+<tspan x="10" y="1130">l.tests.js</tspan>
+<tspan x="10" y="1146"> 48.  2017-04-20 03:44:41 +0000    15207 bytes  crud-module/templates/tests/server/_.server.rout\</tspan>
+<tspan x="10" y="1162">es.tests.js</tspan>
+<tspan x="10" y="1178"> 49.  2017-04-20 03:44:41 +0000     1857 bytes  express-controller/index.js</tspan>
+<tspan x="10" y="1194"> 50.  2017-04-20 03:44:41 +0000      703 bytes  express-controller/templates/_.server.controller\</tspan>
+<tspan x="10" y="1210">.js</tspan>
+<tspan x="10" y="1226"> 51.  2017-04-20 03:44:41 +0000     2164 bytes  express-model/index.js</tspan>
+<tspan x="10" y="1242"> 52.  2017-04-20 03:44:41 +0000      348 bytes  express-model/templates/_.server.model.js</tspan>
+<tspan x="10" y="1258"> 53.  2017-04-20 03:44:41 +0000     1142 bytes  express-model/templates/_.server.model.tests.js</tspan>
+<tspan x="10" y="1274"> 54.  2017-04-20 03:44:41 +0000     1512 bytes  express-route/index.js</tspan>
+<tspan x="10" y="1290"> 55.  2017-04-20 03:44:41 +0000       82 bytes  express-route/templates/_.server.routes.js</tspan>
+<tspan x="10" y="1306"> 56.  2017-04-20 03:44:41 +0000     2369 bytes  express-tests/index.js</tspan>
+<tspan x="10" y="1322"> 57.  2017-04-20 03:44:41 +0000      297 bytes  express-tests/templates/_.server.model.js</tspan>
+<tspan x="10" y="1338"> 58.  2017-04-20 03:44:41 +0000     1183 bytes  express-tests/templates/_.server.model.tests.js</tspan>
+<tspan x="10" y="1354"> 59.  2017-04-20 03:44:41 +0000      885 bytes  gulpfile.js</tspan>
+<tspan x="10" y="1370"> 60.  2017-04-20 03:44:41 +0000     5414 bytes  mean-module/index.js</tspan>
+<tspan x="10" y="1386"> 61.  2017-04-20 03:44:41 +0000      111 bytes  mean-module/templates/_.client.module.js</tspan>
+<tspan x="10" y="1402"> 62.  2017-04-20 03:44:41 +0000      224 bytes  mean-module/templates/_.server.config.js</tspan>
+<tspan x="10" y="1418"> 63.  2017-04-20 03:44:41 +0000     3200 bytes  package.json</tspan>
+<tspan x="10" y="1434"> 64.  2017-04-20 03:44:41 +0000     1957 bytes  test/angular-config.test.js</tspan>
+<tspan x="10" y="1450"> 65.  2017-04-20 03:44:41 +0000     2171 bytes  test/angular-controller.test.js</tspan>
+<tspan x="10" y="1466"> 66.  2017-04-20 03:44:41 +0000     1953 bytes  test/angular-directive.test.js</tspan>
+<tspan x="10" y="1482"> 67.  2017-04-20 03:44:41 +0000     1903 bytes  test/angular-filter.test.js</tspan>
+<tspan x="10" y="1498"> 68.  2017-04-20 03:44:41 +0000    14972 bytes  test/angular-route.test.js</tspan>
+<tspan x="10" y="1514"> 69.  2017-04-20 03:44:41 +0000     1918 bytes  test/angular-service.test.js</tspan>
+<tspan x="10" y="1530"> 70.  2017-04-20 03:44:41 +0000     2182 bytes  test/angular-tests.test.js</tspan>
+<tspan x="10" y="1546"> 71.  2017-04-20 03:44:41 +0000     8209 bytes  test/angular-view.test.js</tspan>
+<tspan x="10" y="1562"> 72.  2017-04-20 03:44:41 +0000     6446 bytes  test/app.test.js</tspan>
+<tspan x="10" y="1578"> 73.  2017-04-20 03:44:41 +0000     3435 bytes  test/crud-module.test.js</tspan>
+<tspan x="10" y="1594"> 74.  2017-04-20 03:44:41 +0000     1947 bytes  test/express-controller.test.js</tspan>
+<tspan x="10" y="1610"> 75.  2017-04-20 03:44:41 +0000     2092 bytes  test/express-model.test.js</tspan>
+<tspan x="10" y="1626"> 76.  2017-04-20 03:44:41 +0000     1932 bytes  test/express-route.test.js</tspan>
+<tspan x="10" y="1642"> 77.  2017-04-20 03:44:41 +0000     2046 bytes  test/express-tests.test.js</tspan>
+<tspan x="10" y="1658"> 78.  2017-04-20 03:44:41 +0000     2649 bytes  test/mean-module.test.js</tspan>
+</text>
+</svg>
